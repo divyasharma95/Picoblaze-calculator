@@ -1,8 +1,5 @@
 ----------------------------------------------------------------------------------
 -- Name: Ethan Kho
--- Design overview: Utilize the existing LCD display  to output the calculation
--- using the picoblaze. The input to this block is registered based on the 
--- write stobe from the picoblaze
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
